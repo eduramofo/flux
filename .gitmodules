@@ -1,0 +1,12 @@
+[submodule "nectar-client"]
+	path = nectar-client
+	url = git@github.com:eduramofo/nectar-client.git
+[submodule "nectar"]
+	path = nectar
+	url = git@github.com:eduramofo/nectar.git
+[submodule "spectra"]
+	path = spectra
+	url = git@github.com:eduramofo/spectra.git
+[submodule "hive"]
+	path = hive
+	url = git@github.com:eduramofo/hive.git

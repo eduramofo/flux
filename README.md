@@ -1,1 +1,3 @@
-# apiary
+# Apiary
+
+Ecosystem for algorithmic trading.
